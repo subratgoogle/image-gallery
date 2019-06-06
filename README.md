@@ -1,4 +1,4 @@
-# Image Gallery
+# Photo Image Gallery
 
 <hr>
 
